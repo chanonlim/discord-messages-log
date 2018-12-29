@@ -12,4 +12,5 @@ A browser-based app to log messages from Discord
 8. You're done!
 
 # Note
-This was made as a random project so I didn't put a lot of effort into it so it may have bugs and the instruction may not be clear for you.
+This was made as a random project so I didn't put a lot of effort into it so it may have bugs and the instruction may not be clear for you.  
+And also it doesn't redraw edits.
